@@ -1,0 +1,1 @@
+import{S as e,N as i}from"./navigation.BtJ_5Z-I.js";new e(".productSlider__swiper",{modules:[i],slidesPerView:1.2,spaceBetween:16,navigation:{prevEl:".productSlider__prev",nextEl:".productSlider__next"},breakpoints:{600:{slidesPerView:2,spaceBetween:20},900:{slidesPerView:3,spaceBetween:24},1200:{slidesPerView:4,spaceBetween:31}}});
